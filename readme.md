@@ -4,7 +4,10 @@
 
 Este projeto é uma página web dedicada aos personagens da trilogia "O Senhor dos Anéis", obra de J. R. R. Tolkien. A página apresenta uma sinopse e uma breve descrição de alguns dos principais personagens, utilizando um layout responsivo e estilizado.
 
+acesso ao projeto: [LORD OF THE RINGS](https://tsjadness.github.io/projeto-lor.github.io/)
+
 ## Estrutura do Projeto
+
 
 O projeto está organizado da seguinte forma:
 
